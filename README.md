@@ -14,12 +14,5 @@ A modern, responsive portfolio website built with HTML, CSS, JavaScript, and Boo
 - index.html - Main page structure
 - style.css - Visual styling and responsive layout
 - script.js - Interactivity, animations, and theme switching
-- assets/images - Placeholder visuals used by the portfolio
-- assets/files/Nandhana_Resume.pdf - Downloadable resume placeholder
-
-## Preview locally
-Open index.html in a browser, or serve the folder with a simple local server such as:
-
-python -m http.server 8000
-
-Then visit http://localhost:8000/
+- assets/images - Images
+- assets/files/NMJ_Resume.pdf - Downloadable resume
